@@ -1714,6 +1714,74 @@
    }
   },
   {
+   "name": "dyg",
+   "url": "https://vip.lianfaka.com/vip/?url=",
+   "type": 1,
+   "ext": {
+    "flag": [
+     "qiyi",
+     "imgo",
+     "爱奇艺",
+     "奇艺",
+     "qq",
+     "腾讯",
+     "youku",
+     "优酷",
+     "pptv",
+     "PPTV",
+     "letv",
+     "乐视",
+     "leshi",
+     "bilibili",
+     "哔哩哔哩",
+     "哔哩",
+     "mgtv",
+     "芒果",
+     "sohu",
+     "xigua",
+     "fun",
+     "风行"
+    ],
+    "header": {
+     "User-Agent": "Mozilla/5.0"
+    }
+   }
+  },
+  {
+   "name": "vip",
+   "url": "https://jx.80k.tv/jxplayer.php?v=",
+   "type": 1,
+   "ext": {
+    "flag": [
+     "qiyi",
+     "imgo",
+     "爱奇艺",
+     "奇艺",
+     "qq",
+     "腾讯",
+     "youku",
+     "优酷",
+     "pptv",
+     "PPTV",
+     "letv",
+     "乐视",
+     "leshi",
+     "bilibili",
+     "哔哩哔哩",
+     "哔哩",
+     "mgtv",
+     "芒果",
+     "sohu",
+     "xigua",
+     "fun",
+     "风行"
+    ],
+    "header": {
+     "User-Agent": "Mozilla/5.0"
+    }
+   }
+  },
+  {
    "name": "飞跃",
    "url": "http://ivips.ml/jx/json.php/?url=",
    "type": 1,

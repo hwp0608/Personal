@@ -580,6 +580,13 @@
    "ext": "https://raw.iqiq.io/Karlin97/Personal/main/js/皮皮泡.js"
   },
   {
+   "key": "dr_js_完美看看",
+   "name": "完美看看[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://raw.iqiq.io/Karlin97/Personal/main/js/完美看看.js"
+  },
+  {
    "key": "dr_js_RP影视",
    "name": "RP影视[DRPY]",
    "type": 3,
@@ -643,7 +650,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/py/py_czspp.py"
+   "ext": "https://raw.iqiq.io/Karlin97/Personal/main/py/py_czspp.py"
   },
   {
    "key": "py_ali",

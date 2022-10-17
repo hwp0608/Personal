@@ -601,6 +601,20 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/69美剧.js"
   },
   {
+   "key": "dr_js_双十电影",
+   "name": "双十电影[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/双十电影.js"
+  },
+  {
+   "key": "dr_js_蛋蛋赞",
+   "name": "蛋蛋赞[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/蛋蛋赞.js"
+  },
+  {
    "key": "dr_js_电影先生",
    "name": "电影先生[DRPY]",
    "type": 3,

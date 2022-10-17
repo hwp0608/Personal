@@ -179,6 +179,13 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/麦豆com.js"
   },
   {
+   "key": "drpy_js_快看",
+   "name": "快看[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/快看.js"
+  },
+  {
    "key": "drpy_js_酷云77",
    "name": "酷云77[DRPY]",
    "type": 3,

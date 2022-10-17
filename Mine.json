@@ -277,6 +277,13 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/ddys.js"
   },
   {
+   "key": "dr_js_if101",
+   "name": "if101[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/if101[飞].js"
+  },
+  {
    "key": "drpy_js_drpy",
    "name": "drpy[DRPY]",
    "type": 3,

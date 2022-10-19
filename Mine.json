@@ -165,6 +165,13 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/Nike影视.js"
   },
   {
+   "key": "dr_js_vidhub",
+   "name": "vidhub[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/vidhub.js"
+  },
+  {
    "key": "dr_js_麦豆",
    "name": "麦豆com[DRPY]",
    "type": 3,
@@ -177,6 +184,13 @@
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/麦豆com.js"
+  },
+  {
+   "key": "drpy_js_厂长资源",
+   "name": "厂长资源[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/厂长资源.js"
   },
   {
    "key": "drpy_js_快看",
@@ -268,6 +282,13 @@
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/鸭奈飞.js"
+  },
+  {
+   "key": "drpy_js_HDmoli",
+   "name": "HDmoli[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/HDmoli.js"
   },
   {
    "key": "dr_js_ddys",
@@ -648,6 +669,13 @@
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/8号影院.js"
+  },
+  {
+   "key": "dr_js_唐人街影视",
+   "name": "唐人街影视[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/唐人街影视.js"
   },
   {
    "key": "dr_js_电影先生",

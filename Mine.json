@@ -218,7 +218,7 @@
    "name": "乐猪TV[DRPY]",
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/乐猪TV.js"
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/乐猪TV.js"
   },
   {
    "key": "drpy_js_在线之家",
@@ -535,7 +535,7 @@
    "name": "大师兄影视[DRPY]",
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/大师兄影视.js"
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/大师兄影视.js"
   },
   {
    "key": "dr_js_胖虎影视",
@@ -696,7 +696,14 @@
    "name": "星辰[DRPY]",
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-   "ext": "https://raw.iqiq.io/Karlin97/Personal/main/js/星辰.js"
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/星辰.js"
+  },
+  {
+   "key": "dr_js_来看点播",
+   "name": "来看点播[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/来看点播.js"
   },
   {
    "key": "dr_js_电影先生",

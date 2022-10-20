@@ -720,6 +720,13 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/四个圈影视.js"
   },
   {
+   "key": "dr_js_冲冲冲",
+   "name": "冲冲冲[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://raw.iqiq.io/Karlin97/Personal/main/js/冲冲冲.js"
+  },
+  {
    "key": "dr_js_电影先生",
    "name": "电影先生[DRPY]",
    "type": 3,

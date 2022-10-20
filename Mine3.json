@@ -1049,6 +1049,16 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/py/py_bilimd.py"
   },
   {
+   "key": "LIBVIO",
+   "name": "🎨LIBVIO",
+   "type": 3,
+   "api": "csp_XBiubiu",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/LIBVIO.json"
+  },
+  {
    "key": "Zjdr",
    "name": "追剧达人",
    "type":3,

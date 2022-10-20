@@ -699,6 +699,13 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/星辰.js"
   },
   {
+   "key": "dr_js_gaze",
+   "name": "注视[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/gaze.js"
+  },
+  {
    "key": "dr_js_来看点播",
    "name": "来看点播[DRPY]",
    "type": 3,

@@ -322,7 +322,7 @@
    "key": "t4",
    "name": "T4",
    "type": 4,
-   "api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=0ebc83e6045548faaf15a058a7992110&timeout=8",
+   "api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=da20a6a14a5d4c9ebb9152cab5aa10ef&timeout=8",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -1177,8 +1177,29 @@
    "searchable": 0,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "0ebc83e6045548faaf15a058a7992110",
+   "ext": "da20a6a14a5d4c9ebb9152cab5aa10ef",
    "plugin": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/jar/0906.jar"
+  },
+  {
+   "key": "csp_GitCafe",
+   "name": "小纸条",
+   "type": 3,
+   "api": "csp_Gitcafe",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "da20a6a14a5d4c9ebb9152cab5aa10ef"
+  },
+  {
+   "key": "阿里盤搜",
+   "name": "阿里盤搜",
+   "type": 3,
+   "api": "csp_AliPanSou",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "da20a6a14a5d4c9ebb9152cab5aa10ef",
+   "plugin": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
    "key": "csp_appysv2_渔渔影视",

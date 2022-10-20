@@ -1193,17 +1193,6 @@
    "ext":"da20a6a14a5d4c9ebb9152cab5aa10ef"
   },
   {
-   "key": "push_agent",
-   "name": "推送（爱优腾/阿里云盘/磁力链接）",
-   "type": 3,
-   "api": "csp_PushAgent",
-   "searchable": 0,
-   "quickSearch": 0,
-   "filterable": 0,
-   "ext": "0ebc83e6045548faaf15a058a7992110",
-   "plugin": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/jar/0906.jar"
-  },
-  {
    "key": "csp_appysv2_渔渔影视",
    "name": "渔渔影视(萝卜)",
    "type": 3,

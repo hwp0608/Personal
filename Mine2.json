@@ -1193,15 +1193,6 @@
    "ext":"da20a6a14a5d4c9ebb9152cab5aa10ef"
   },
   {
-   "key": "if101资源",
-   "name": "✈️if101(海外推荐)",
-   "type": 0,
-   "api": "https://demo.if101.tv/api.php/provide/vod/at/xml",
-   "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
    "key": "push_agent",
    "name": "推送（爱优腾/阿里云盘/磁力链接）",
    "type": 3,

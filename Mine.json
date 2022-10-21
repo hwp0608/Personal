@@ -132,6 +132,11 @@
    "name": "👸小丫网盘",
    "server": "http://myalist.site",
    "type": "alist"
+  },
+  {
+   "name": "阿里",
+   "password": "43886374072944a2bcc55a0ed129ab48",
+   "type": "alidrive"
   }
  ],
  "homepage": "https://gitcode.net/qq_32394351/dr_py",
@@ -732,6 +737,13 @@
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/追剧达人.js"
+  },
+  {
+   "key": "dr_js_荐片",
+   "name": "荐片[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/荐片.js"
   },
   {
    "key": "dr_js_电影先生",

@@ -310,11 +310,25 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/ddys.js"
   },
   {
-   "key": "dr_js_if101",
-   "name": "if101[DRPY]",
+   "key": "dr_js_吼吼",
+   "name":"吼吼[DRPY]",
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/if101[飞].js"
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/吼吼[飞].js"
+  },  
+  {
+   "key": "dr_js_小宝影院",
+   "name":"小宝影院[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/小宝影院[飞].js"
+  },
+  {
+   "key": "dr_js_欧乐影院",
+   "name":"欧乐影院[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/欧乐影院[飞].js"
   },
   {
    "key": "drpy_js_drpy",
@@ -1250,15 +1264,6 @@
    "filterable": 1
   },
   {
-   "key": "if101资源",
-   "name": "✈️if101(海外推荐)",
-   "type": 0,
-   "api": "https://demo.if101.tv/api.php/provide/vod/at/xml",
-   "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
    "key": "push_agent",
    "name": "推送（爱优腾/阿里云盘/磁力链接）",
    "type": 3,
@@ -1777,14 +1782,6 @@
    "api": "https://zy.hikan.xyz/api.php/provide/vod/",
    "searchable": 1,
    "quickSearch": 1
-  },
-  {
-   "key": "一帆资源(VPN)",
-   "name": "一帆资源(VPN)(优)",
-   "type": 1,
-   "api": "http://api.if101.tv/v1/vod?ac=list",
-   "searchable": 0,
-   "quickSearch": 0
   },
   {
    "key": "789盘",

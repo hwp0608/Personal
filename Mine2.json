@@ -571,11 +571,11 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/特狗影视.js"
   },
   {
-   "key": "dr_js_饭团影视",
+   "key": "dr_js_饭团",
    "name": "饭团影视[DRPY]",
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-   "ext": "https://raw.iqiq.io/Karlin97/Personal/main/js/饭团影视.js"
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/饭团.js"
   },
   {
    "key": "dr_js_天空影视",
@@ -751,6 +751,55 @@
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/Fun4K.js"
+  },
+  {
+   "key": "dr_js_188看",
+   "name": "Fun4K[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/188看.js"
+  },
+  {
+   "key": "dr_js_子子影视",
+   "name": "Fun4K[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/子子影视.js"
+  },
+  {
+   "key": "dr_js_小白菜电影",
+   "name": "Fun4K[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/小白菜电影.js"
+  },
+  {
+   "key": "dr_js_新视觉影视",
+   "name": "Fun4K[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/新视觉影视.js"
+  },
+  {
+   "key": "dr_js_映迷影院",
+   "name": "Fun4K[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/映迷影院.js"
+  },
+  {
+   "key": "dr_js_看看电影",
+   "name": "Fun4K[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/看看电影.js"
+  },
+  {
+   "key": "dr_js_量子影视",
+   "name": "Fun4K[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/量子影视.js"
   },
   {
    "key": "dr_js_电影先生",

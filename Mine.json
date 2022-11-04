@@ -1,6 +1,6 @@
 {
  "wallpaper": "https://p0.meituan.net/dpplatform/6a4e7609e4568c37fdb2e6cb66adfac1151251.jpg",
- "spider": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/base/files/custom_spider.jar",
+ "spider": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/custom_spider.jar",
  "drives": [
   {
    "name": "🦀9T(Adult)",
@@ -2242,6 +2242,40 @@
   {
    "name": "无名1",
    "url": "http://api.ckflv.cn/?url=",
+   "type": 1,
+   "ext": {
+    "flag": [
+     "qiyi",
+     "imgo",
+     "爱奇艺",
+     "奇艺",
+     "qq",
+     "腾讯",
+     "youku",
+     "优酷",
+     "pptv",
+     "PPTV",
+     "letv",
+     "乐视",
+     "leshi",
+     "bilibili",
+     "哔哩哔哩",
+     "哔哩",
+     "mgtv",
+     "芒果",
+     "sohu",
+     "xigua",
+     "fun",
+     "风行"
+    ],
+    "header": {
+     "User-Agent": "Mozilla/5.0"
+    }
+   }
+  },
+  {
+   "name": "万能",
+   "url": "https://json.legendwhb.cn/llq/?url=",
    "type": 1,
    "ext": {
     "flag": [

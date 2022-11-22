@@ -354,14 +354,14 @@
    "filterable": 0
   },
   {
-   "key": "豆瓣",
+   "key": "drpy_js_豆瓣",
    "name": "豆瓣[JS]",
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
    "ext": "https://raw.iqiq.io/pluto-player/updates/main/android/plugins/js/douban.js"
   },
   {
-   "key": "Alist",
+   "key": "drpy_js_Alist",
    "name": "Alist[DRPY]",
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js",

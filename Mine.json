@@ -361,6 +361,13 @@
    "ext": "https://raw.iqiq.io/pluto-player/updates/main/android/plugins/js/douban.js"
   },
   {
+   "key": "Alist",
+   "name": "Alist[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/json/alist.json"
+  },
+  {
    "key": "drpy_js_007影视",
    "name": "007影视[DRPY]",
    "type": 3,

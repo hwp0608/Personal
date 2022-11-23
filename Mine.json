@@ -711,11 +711,11 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/8号影院.js"
   },
   {
-   "key": "dr_js_唐人街影视",
-   "name": "唐人街影视[DRPY]",
+   "key": "dr_js_唐人街影视[飞]",
+   "name": "唐人街影视[飞][DRPY]",
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/唐人街影视.js"
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/唐人街影视[飞].js"
   },
   {
    "key": "dr_js_tva云播",
@@ -877,6 +877,13 @@
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/布雷蓝光.js"
+  },
+  {
+   "key": "dr_js_BD360",
+   "name": "BD360[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/BD360.js"
   },
   {
    "key": "dr_js_电影先生",

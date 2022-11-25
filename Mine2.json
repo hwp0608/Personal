@@ -1,6 +1,6 @@
 {
  "wallpaper": "https://p0.meituan.net/dpplatform/6a4e7609e4568c37fdb2e6cb66adfac1151251.jpg",
- "spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/duov.jar;md5;6BF2FCBE50B975602B069C8E54AA938F",
+ "spider": "https://raw.iqiq.io/Karlin97/Personal/main/jar/custom_spider2.jar",
  "drives": [
   {
    "name": "🦀9T(Adult)",
@@ -1394,7 +1394,6 @@
    "quickSearch": 0,
    "filterable": 0,
    "ext": "a2914e1c9ac94cceae31adbb201ec984"
-   "jar": "https://gitlab.com/duomv/duo/-/raw/main/jar/sou.jar"
   },
   {
    "key": "csp_appysv2_2号币",

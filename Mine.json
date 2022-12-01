@@ -275,6 +275,13 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/菜狗.js"
   },
   {
+   "key": "drpy_js_哔哩影视",
+   "name": "哔哩影视[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/哔哩影视.js"
+  },
+  {
    "key": "drpy_js_LIBVIO",
    "name": "LIBVIO[DRPY]",
    "type": 3,
@@ -1339,6 +1346,16 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/py/py_bilibili.py"
   },
   {
+   "key": "py_biliys",
+   "name": "py_biliys(Pyramid)",
+   "type": 3,
+   "api": "py_biliys",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/py/py_biliys.py"
+  },
+  {
    "key": "py_bilivd",
    "name": "py_bilivd(Pyramid)",
    "type": 3,
@@ -1357,6 +1374,16 @@
    "quickSearch": 1,
    "filterable": 0,
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/py/py_bilimd.py"
+  },
+  {
+   "key": "py_bilimy",
+   "name": "py_bilimy(Pyramid)",
+   "type": 3,
+   "api": "py_bilimy",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/py/py_bilimy.py"
   },
   {
    "key": "csp_Cokemv",

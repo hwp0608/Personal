@@ -279,7 +279,7 @@
    "name": "哔哩影视[DRPY]",
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/哔哩影视.js"
+   "ext": "https://raw.iqiq.io/Karlin97/Personal/main/js/哔哩影视.js"
   },
   {
    "key": "drpy_js_LIBVIO",
@@ -349,7 +349,7 @@
    "name": "drpy[DRPY]",
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"
+   "ext": "https://raw.iqiq.io/Karlin97/Personal/main/js/drpy.js"
   },
   {
    "key": "t4",

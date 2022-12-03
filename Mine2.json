@@ -1008,6 +1008,13 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/跑TV.js"
   },
   {
+   "key": "dr_js_苹果爱微",
+   "name": "苹果爱微[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/苹果爱微.js"
+  },
+  {
    "key": "dr_js_电影先生",
    "name": "电影先生[DRPY]",
    "type": 3,

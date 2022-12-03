@@ -1001,6 +1001,13 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷客影院.js"
   },
   {
+   "key": "dr_js_跑TV",
+   "name": "跑TV[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/跑TV.js"
+  },
+  {
    "key": "dr_js_电影先生",
    "name": "电影先生[DRPY]",
    "type": 3,

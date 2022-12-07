@@ -1297,6 +1297,16 @@
    "ext": "https://raw.iqiq.io/heroaku/TVboxo/main/Py/py_yydshd.py"
   },
   {
+   "key": "py_mdoutv",
+   "name": "py_mdoutv(Pyramid)",
+   "type": 3,
+   "api": "py_mdoutv",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "https://raw.iqiq.io/heroaku/TVboxo/main/Py/py_mdoutv.py"
+  },
+  {
    "key": "py_gimytv",
    "name": "py_gimytv(Pyramid)",
    "type": 3,

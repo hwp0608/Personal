@@ -1036,6 +1036,13 @@
    "ext": "https://raw.iqiq.io/Karlin97/Personal/main/js/fositv.js"
   },
   {
+   "key": "dr_js_回响影视",
+   "name": "回响影视[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://raw.iqiq.io/Karlin97/Personal/main/js/回响影视.js"
+  },
+  {
    "key": "dr_js_剧荒",
    "name": "剧荒[DRPY]",
    "type": 3,

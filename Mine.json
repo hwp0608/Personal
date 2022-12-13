@@ -735,13 +735,6 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/两个BT.js"
   },
   {
-   "key": "dr_js_TV云播",
-   "name": "TV云播[DRPY]",
-   "type": 3,
-   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/TV云播.js"
-  },
-  {
    "key": "dr_js_皮皮泡",
    "name": "皮皮泡[DRPY]",
    "type": 3,

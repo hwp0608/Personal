@@ -149,6 +149,13 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/555影视.js"
   },
   {
+   "key": "drpy_js_哔滴影视",
+   "name": "哔滴影视[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/js/哔滴影视.js"
+  },
+  {
    "key": "drpy_js_剧白白",
    "name": "剧白白[DRPY]",
    "type": 3,

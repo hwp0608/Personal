@@ -1127,6 +1127,20 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/539影院.js"
   },
   {
+   "key": "dr_js_热播库",
+   "name": "热播库[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/热播库.js"
+  },
+  {
+   "key": "dr_js_诺讯影视",
+   "name": "诺讯影视[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/诺讯影视.js"
+  },
+  {
    "key": "dr_js_电影先生",
    "name": "电影先生[DRPY]",
    "type": 3,

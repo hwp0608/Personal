@@ -1162,6 +1162,20 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/首播影院.js"
   },
   {
+   "key": "dr_js_天天视频",
+   "name": "天天视频[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/天天视频.js"
+  },
+  {
+   "key": "dr_js_美剧网",
+   "name": "美剧网[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/美剧网.js"
+  },
+  {
    "key": "dr_js_电影先生",
    "name": "电影先生[DRPY]",
    "type": 3,

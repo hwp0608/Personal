@@ -324,6 +324,13 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/ddys.js"
   },
   {
+   "key": "dr_js_Auete",
+   "name": "Auete[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/Auete.js"
+  },
+  {
    "key": "dr_js_吼吼",
    "name":"吼吼[飞][DRPY]",
    "type": 3,

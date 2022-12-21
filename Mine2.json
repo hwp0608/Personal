@@ -1239,6 +1239,13 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/时光影视.js"
   },
   {
+   "key": "dr_js_大猪蹄子",
+   "name": "大猪蹄子[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/大猪蹄子.js"
+  },
+  {
    "key": "dr_js_电影先生",
    "name": "电影先生[DRPY]",
    "type": 3,

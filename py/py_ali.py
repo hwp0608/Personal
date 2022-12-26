@@ -1,4 +1,4 @@
-#coding=utf-8
+﻿#coding=utf-8
 #!/usr/bin/python
 import sys
 sys.path.append('..') 
@@ -394,7 +394,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		url = 'https://api.aliyundrive.com/token/refresh'
 		if len(self.authorization) == 0 or self.timeoutTick - self.localTime <= 600:
 			form = {
-				'refresh_token':'a2914e1c9ac94cceae31adbb201ec984'
+				'refresh_token':'ee078a469d494af1b3c5984718f04abb'
 			}
 			if len(self.extend) > 0:
 				form['refresh_token'] = self.extend

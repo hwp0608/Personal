@@ -1587,6 +1587,16 @@
    "ext": "https://raw.iqiq.io/heroaku/TVboxo/main/Py/py_mdoutv.py"
   },
   {
+   "key": "py_ikan",
+   "name": "py_ikan(Pyramid)",
+   "type": 3,
+   "api": "py_ikan",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/py/py_ikan.py"
+  },
+  {
    "key": "py_gimytv",
    "name": "py_gimytv(Pyramid)",
    "type": 3,

@@ -1309,6 +1309,13 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/欧帝影院.js"
   },
   {
+   "key": "dr_js_万博剧院",
+   "name": "万博剧院[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/万博剧院.js"
+  },
+  {
    "key": "dr_js_电影先生",
    "name": "电影先生[DRPY]",
    "type": 3,

@@ -289,6 +289,13 @@
    "ext": "https://raw.iqiq.io/Karlin97/Personal/main/js/哔哩影视.js"
   },
   {
+   "key": "drpy_js_我的哔哩",
+   "name": "我的哔哩[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://raw.iqiq.io/Karlin97/Personal/main/js/我的哔哩.js"
+  },
+  {
    "key": "drpy_js_LIBVIO",
    "name": "LIBVIO[DRPY]",
    "type": 3,

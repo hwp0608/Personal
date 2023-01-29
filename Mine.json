@@ -753,7 +753,7 @@
    "name": "剧迷[DRPY]",
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/剧迷.js"
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/剧迷.js"
   },
   {
    "key": "dr_js_两个BT",
@@ -1356,6 +1356,13 @@
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/飞兔影视.js"
+  },
+  {
+   "key": "dr_js_多瑙影视",
+   "name": "多瑙影视[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/多瑙影视.js"
   },
   {
    "key": "dr_js_电影先生",

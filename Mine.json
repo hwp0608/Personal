@@ -732,7 +732,7 @@
    "name": "饭团[DRPY]",
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/饭团.js"
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/饭团.jsd"
   },
   {
    "key": "dr_js_饭团影视",

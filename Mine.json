@@ -1428,6 +1428,13 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/我爱跟剧.js"
   },
   {
+   "key": "dr_js_孜然影视",
+   "name": "孜然影视[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/孜然影视.js"
+  },
+  {
    "key": "dr_js_剧荒TV",
    "name": "剧荒TV[DRPY]",
    "type": 3,

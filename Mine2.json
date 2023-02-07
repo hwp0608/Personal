@@ -1519,6 +1519,48 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/柒之社.js"
   },
   {
+   "key": "dr_js_9U电影",
+   "name": "9U电影[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/9U电影.js"
+  },
+  {
+   "key": "dr_js_zxzjmtv",
+   "name": "zxzjmtv[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/zxzjmtv.js"
+  },
+  {
+   "key": "dr_js_利丽娅电影",
+   "name": "利丽娅电影[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/利丽娅电影.js"
+  },
+  {
+   "key": "dr_js_美视网",
+   "name": "美视网[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/美视网.js"
+  },
+  {
+   "key": "dr_js_起飞影院",
+   "name": "起飞影院[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/起飞影院.js"
+  },
+  {
+   "key": "dr_js_追剧迷",
+   "name": "追剧迷[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/追剧迷.js"
+  },
+  {
    "key": "dr_js_剧荒TV",
    "name": "剧荒TV[DRPY]",
    "type": 3,

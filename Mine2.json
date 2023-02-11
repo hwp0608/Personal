@@ -1603,6 +1603,20 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/看韩剧.js"
   },
   {
+   "key": "dr_js_哔哩兔",
+   "name": "哔哩兔[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/哔哩兔.js"
+  },
+  {
+   "key": "dr_js_影渣渣",
+   "name": "影渣渣[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/影渣渣.js"
+  },
+  {
    "key": "dr_js_剧荒TV",
    "name": "剧荒TV[DRPY]",
    "type": 3,

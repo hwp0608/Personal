@@ -300,7 +300,7 @@
    "name": "LIBVIO[DRPY]",
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-   "ext": "https://raw.iqiq.io/Karlin97/Personal/main/js/LIBVIO.js"
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/LIBVIO.js"
   },
   {
    "key": "drpy_js_voflix",

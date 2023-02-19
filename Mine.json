@@ -1624,6 +1624,13 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/无名小站.js"
   },
   {
+   "key": "dr_js_粤爱看",
+   "name": "粤爱看[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/粤爱看.js"
+  },
+  {
    "key": "dr_js_剧荒TV",
    "name": "剧荒TV[DRPY]",
    "type": 3,

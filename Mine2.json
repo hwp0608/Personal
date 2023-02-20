@@ -376,7 +376,7 @@
    "key": "t4",
    "name": "T4",
    "type": 4,
-   "api": "http://42.192.248.11:8080/vod?sites=all&ali_token=98ffb844afe041d38f54e266c4f91b52&timeout=8",
+   "api": "http://42.192.248.11:8080/vod?sites=all&ali_token=104dfb1901cc4e1eb88a4594ca29ecaa&timeout=8",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -2335,7 +2335,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "98ffb844afe041d38f54e266c4f91b52"
+   "ext": "104dfb1901cc4e1eb88a4594ca29ecaa"
   },
   {
    "key": "阿里盤搜",
@@ -2345,7 +2345,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "98ffb844afe041d38f54e266c4f91b52",
+   "ext": "104dfb1901cc4e1eb88a4594ca29ecaa",
    "plugin": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
@@ -2356,7 +2356,7 @@
    "searchable": 0,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "98ffb844afe041d38f54e266c4f91b52"
+   "ext": "104dfb1901cc4e1eb88a4594ca29ecaa"
   },
   {
    "key": "csp_appysv2_2号币",

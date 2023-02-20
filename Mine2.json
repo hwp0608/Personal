@@ -1,6 +1,6 @@
 ﻿{
  "wallpaper": "https://p0.meituan.net/dpplatform/6a4e7609e4568c37fdb2e6cb66adfac1151251.jpg",
- "spider": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/custom_spider.jar",
+ "spider": "https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo0219.jar",
  "drives": [
   {
    "name": "🙋丫仙女",
@@ -2356,8 +2356,7 @@
    "searchable": 0,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "104dfb1901cc4e1eb88a4594ca29ecaa",
-   "plugin": "https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo0219.jar"
+   "ext": "104dfb1901cc4e1eb88a4594ca29ecaa"
   },
   {
    "key": "csp_appysv2_2号币",

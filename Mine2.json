@@ -2339,15 +2339,15 @@
    "plugin": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
-      "key": "易搜",
-      "name": "易搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "104dfb1901cc4e1eb88a4594ca29ecaa",
-      "plugin": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+   "key": "易搜",
+   "name": "易搜",
+   "type": 3,
+   "api": "csp_YiSo",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "104dfb1901cc4e1eb88a4594ca29ecaa",
+   "plugin": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
    "key": "阿里盤搜",
@@ -2356,7 +2356,29 @@
    "api": "csp_PanSou",
    "searchable": 1,
    "quickSearch": 1,
-   "filterable": 1,
+   "filterable": 0,
+   "ext": "104dfb1901cc4e1eb88a4594ca29ecaa",
+   "plugin": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+  },
+  {
+   "key": "UP雲搜",
+   "name": "UP雲搜",
+   "type": 3,
+   "api": "csp_UpYun",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "104dfb1901cc4e1eb88a4594ca29ecaa",
+   "plugin": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+  },
+  {
+   "key": "找資源",
+   "name": "找資源",
+   "type": 3,
+   "api": "csp_Zhaozy",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
    "ext": "104dfb1901cc4e1eb88a4594ca29ecaa",
    "plugin": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },

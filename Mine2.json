@@ -1,6 +1,6 @@
 ﻿{
  "wallpaper": "https://p0.meituan.net/dpplatform/6a4e7609e4568c37fdb2e6cb66adfac1151251.jpg",
- "spider": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/custom_spider.jar",
+ "spider": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
  "drives": [
   {
    "name": "🙋丫仙女",
@@ -2352,8 +2352,8 @@
    "key": "push_agent",
    "name": "📽推送",
    "type":3,
-   "api": "csp_PushAgent",
-   "searchable": 0,
+   "api": "csp_Push",
+   "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
    "ext": "104dfb1901cc4e1eb88a4594ca29ecaa"

@@ -1,6 +1,6 @@
 ﻿{
  "wallpaper": "https://p0.meituan.net/dpplatform/6a4e7609e4568c37fdb2e6cb66adfac1151251.jpg",
- "spider": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+ "spider": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/custom_spider.jar",
  "drives": [
   {
    "name": "🙋丫仙女",
@@ -2328,20 +2328,32 @@
    "filterable": 1
   },
   {
-   "key": "csp_GitCafe",
+   "key": "纸条",
    "name": "小纸条",
    "type": 3,
-   "api": "csp_Gitcafe",
+   "api": "csp_Paper",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "104dfb1901cc4e1eb88a4594ca29ecaa"
+   "ext": "104dfb1901cc4e1eb88a4594ca29ecaa",
+   "plugin": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+  },
+  {
+      "key": "易搜",
+      "name": "易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "104dfb1901cc4e1eb88a4594ca29ecaa",
+      "plugin": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
    "key": "阿里盤搜",
    "name": "阿里盤搜",
    "type": 3,
-   "api": "csp_AliPanSou",
+   "api": "csp_PanSou",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
@@ -2356,7 +2368,8 @@
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "104dfb1901cc4e1eb88a4594ca29ecaa"
+   "ext": "104dfb1901cc4e1eb88a4594ca29ecaa",
+   "plugin": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
    "key": "csp_appysv2_2号币",

@@ -376,7 +376,7 @@
    "key": "t4",
    "name": "T4",
    "type": 4,
-   "api": "http://42.192.248.11:8080/vod?sites=all&ali_token=https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt&timeout=8",
+   "api": "http://42.192.248.11:8080/vod?sites=all&ali_token=https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt&timeout=8",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -2335,7 +2335,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
    "plugin": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
@@ -2346,7 +2346,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
    "plugin": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
@@ -2357,7 +2357,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
    "plugin": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
@@ -2368,7 +2368,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
    "plugin": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
@@ -2379,7 +2379,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
    "plugin": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
@@ -2390,7 +2390,7 @@
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
    "plugin": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {

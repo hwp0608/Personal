@@ -376,7 +376,7 @@
    "key": "t4",
    "name": "T4",
    "type": 4,
-   "api": "http://42.192.248.11:8080/vod?sites=all&ali_token=https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt&timeout=8",
+   "api": "http://42.192.248.11:5395/vod?sites=all&ali_token=https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt&timeout=8",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0

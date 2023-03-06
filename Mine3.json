@@ -1694,13 +1694,6 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/看看屋.js"
   },
   {
-   "key": "dr_js_剧荒TV",
-   "name": "剧荒TV[DRPY]",
-   "type": 3,
-   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/剧荒TV.js"
-  },
-  {
    "key": "dr_js_皮皮鸭",
    "name": "皮皮鸭[DRPY]",
    "type": 3,
@@ -1713,6 +1706,20 @@
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/飞飞影视.js"
+  },
+  {
+   "key": "dr_js_秋霞影视",
+   "name": "秋霞影视[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/秋霞影视.js"
+  },
+  {
+   "key": "dr_js_剧荒TV",
+   "name": "剧荒TV[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/剧荒TV.js"
   },
   {
    "key": "drpy_js_玄天",

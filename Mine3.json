@@ -1715,6 +1715,27 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/秋霞影视.js"
   },
   {
+   "key": "dr_js_555影视[V2]",
+   "name": "555影视[V2][DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/555影视[V2].js"
+  },
+  {
+   "key": "dr_js_天空影视[V2]",
+   "name": "天空影视[V2][DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/天空影视[V2].js"
+  },
+  {
+   "key": "dr_js_萌蛋蛋[V2]",
+   "name": "萌蛋蛋[V2][DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/萌蛋蛋[V2].js"
+  },
+  {
    "key": "dr_js_剧荒TV",
    "name": "剧荒TV[DRPY]",
    "type": 3,

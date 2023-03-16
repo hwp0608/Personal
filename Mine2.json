@@ -286,14 +286,14 @@
    "name": "哔哩影视[DRPY]",
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/js/哔哩影视.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/js/哔哩影视.js"
   },
   {
    "key": "drpy_js_我的哔哩",
    "name": "我的哔哩[DRPY]",
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/js/我的哔哩.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/js/我的哔哩.js"
   },
   {
    "key": "drpy_js_LIBVIO",
@@ -370,13 +370,13 @@
    "name": "drpy[DRPY]",
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/js/drpy.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/js/drpy.js"
   },
   {
    "key": "t4",
    "name": "T4",
    "type": 4,
-   "api": "http://42.192.248.11:8080/vod?sites=all&ali_token=https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt&timeout=8",
+   "api": "http://42.192.248.11:8080/vod?sites=all&ali_token=https://ghproxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt&timeout=8",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
@@ -400,7 +400,7 @@
    "name": "Alist(pluto)",
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js",
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/Mine2.json;200;video"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/Mine2.json;200;video"
   },
   {
    "key": "Alist_obj",
@@ -767,7 +767,7 @@
    "name": "皮皮泡[DRPY]",
    "type": 3,
    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/js/皮皮泡.js"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/js/皮皮泡.js"
   },
   {
    "key": "dr_js_完美看看",
@@ -1856,7 +1856,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/py/py_ali.py"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/py/py_ali.py"
   },
   {
    "key": "py_gitcafe",
@@ -1926,7 +1926,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Py/py_555dy3.py"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Py/py_555dy3.py"
   },
   {
    "key": "py_kunyu77",
@@ -1946,7 +1946,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/py/py_lezhutv.py"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/py/py_lezhutv.py"
   },
   {
    "key": "py_zxzj",
@@ -1966,7 +1966,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/py/py_libvio.py"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/py/py_libvio.py"
   },
   {
    "key": "py_voflix",
@@ -1986,7 +1986,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/py/py_douban.py"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/py/py_douban.py"
   },
   {
    "key": "py_cup",
@@ -1996,7 +1996,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Py/py_cup.py"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Py/py_cup.py"
   },
   {
    "key": "py_3qu",
@@ -2006,7 +2006,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/py/py_3qu.py"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/py/py_3qu.py"
   },
   {
    "key": "py_kuaikan",
@@ -2036,7 +2036,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Py/py_yydshd.py"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Py/py_yydshd.py"
   },
   {
    "key": "py_mdoutv",
@@ -2046,7 +2046,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Py/py_mdoutv.py"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Py/py_mdoutv.py"
   },
   {
    "key": "py_ikan",
@@ -2056,7 +2056,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/py/py_ikan.py"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/py/py_ikan.py"
   },
   {
    "key": "py_gimytv",
@@ -2096,7 +2096,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Py/py_wmkk.py"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Py/py_wmkk.py"
   },
   {
    "key": "py_cyys",
@@ -2106,7 +2106,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/py/py_cyys.py"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/py/py_cyys.py"
   },
   {
    "key": "py_star",
@@ -2116,7 +2116,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Py/py_star.py"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Py/py_star.py"
   },
   {
    "key": "py_bilibili",
@@ -2482,8 +2482,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
-   "plugin": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
+   "plugin": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
    "key": "易搜",
@@ -2493,8 +2493,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
-   "plugin": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
+   "plugin": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
    "key": "盤搜",
@@ -2504,8 +2504,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
-   "plugin": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
+   "plugin": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
    "key": "UP雲搜",
@@ -2515,8 +2515,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
-   "plugin": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
+   "plugin": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
    "key": "找資源",
@@ -2526,8 +2526,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
-   "plugin": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
+   "plugin": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
    "key": "push_agent",
@@ -2537,8 +2537,8 @@
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
-   "plugin": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
+   "plugin": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
    "key": "csp_appysv2_2号币",

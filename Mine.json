@@ -1799,6 +1799,62 @@
    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/网飞.TV.js"
   },
   {
+   "key": "dr_js_139影视",
+   "name": "139影视[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/139影视.js"
+  },
+  {
+   "key": "dr_js_FreeOK",
+   "name": "FreeOK[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/FreeOK.js"
+  },
+  {
+   "key": "dr_js_UM电影",
+   "name": "UM电影[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/UM电影.js"
+  },
+  {
+   "key": "dr_js_二次萌影视",
+   "name": "二次萌影视[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/二次萌影视.js"
+  },
+  {
+   "key": "dr_js_朴樱影视",
+   "name": "朴樱影视[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/朴樱影视.js"
+  },
+  {
+   "key": "dr_js_米爱影视",
+   "name": "米爱影视[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/米爱影视.js"
+  },
+  {
+   "key": "dr_js_花猫TV",
+   "name": "花猫TV[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/花猫TV.js"
+  },
+  {
+   "key": "dr_js_达达龟",
+   "name": "达达龟[DRPY]",
+   "type": 3,
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/达达龟.js"
+  },
+  {
    "key": "dr_js_剧荒TV",
    "name": "剧荒TV[DRPY]",
    "type": 3,

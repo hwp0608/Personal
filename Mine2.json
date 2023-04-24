@@ -2584,7 +2584,7 @@
    "quickSearch": 1,
    "filterable": 0,
    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
-   "plugin": "https://ghproxy.net/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+   "plugin": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
    "key": "易搜",
@@ -2595,7 +2595,7 @@
    "quickSearch": 1,
    "filterable": 0,
    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
-   "plugin": "https://ghproxy.net/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+   "plugin": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
    "key": "盤搜",
@@ -2606,7 +2606,7 @@
    "quickSearch": 1,
    "filterable": 0,
    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
-   "plugin": "https://ghproxy.net/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+   "plugin": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
    "key": "UP雲搜",
@@ -2617,7 +2617,7 @@
    "quickSearch": 1,
    "filterable": 0,
    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
-   "plugin": "https://ghproxy.net/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+   "plugin": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
    "key": "找資源",
@@ -2628,7 +2628,7 @@
    "quickSearch": 1,
    "filterable": 0,
    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
-   "plugin": "https://ghproxy.net/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+   "plugin": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
    "key": "push_agent",
@@ -2639,7 +2639,7 @@
    "quickSearch": 0,
    "filterable": 0,
    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Karlin97/Personal/main/token.txt",
-   "plugin": "https://ghproxy.net/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+   "plugin": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
    "key": "csp_appysv2_2号币",

@@ -2594,7 +2594,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "104dfb1901cc4e1eb88a4594ca29ecaa",
-   "plugin": "https://ghproxy.net/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+   "plugin": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
   },
   {
    "key": "push_agent",

@@ -637,7 +637,7 @@
    "name": "vip影院[DRPY]",
    "type": 3,
    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/vip影院.js"
+   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/vip影院.jsd"
   },
   {
    "key": "drpy_js_影视工厂",
@@ -770,7 +770,7 @@
    "name": "两个BT[DRPY]",
    "type": 3,
    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/txt/js/tg/两个BT.js"
+   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/txt/js/tg/两个BT.jsd"
   },
   {
    "key": "dr_js_皮皮泡",
@@ -1169,7 +1169,7 @@
    "name": "诺讯影视[DRPY]",
    "type": 3,
    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/诺讯影视.js"
+   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/诺讯影视.jsd"
   },
   {
    "key": "dr_js_7喜影院",
@@ -1540,7 +1540,7 @@
    "name": "zxzjmtv[DRPY]",
    "type": 3,
    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/zxzjmtv.js"
+   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/zxzjmtv.jsd"
   },
   {
    "key": "dr_js_利丽娅电影",
@@ -1666,7 +1666,7 @@
    "name": "小宝影视[DRPY]",
    "type": 3,
    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小宝影视.js"
+   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小宝影视.jsd"
   },
   {
    "key": "dr_js_爱看影院",
@@ -1883,7 +1883,7 @@
    "name": "剧荒TV[DRPY]",
    "type": 3,
    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/剧荒TV.js"
+   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/剧荒TV.jsd"
   },
   {
    "key": "drpy_js_玄天",

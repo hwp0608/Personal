@@ -1767,6 +1767,13 @@
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/城市影视.js"
   },
   {
+   "key": "dr_js_骚火电影",
+   "name": "骚火电影[DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/骚火电影.js"
+  },
+  {
    "key": "dr_js_剧荒TV",
    "name": "剧荒TV[DRPY]",
    "type": 3,

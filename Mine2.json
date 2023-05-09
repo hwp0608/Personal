@@ -69,7 +69,7 @@
    "name": "剧白白[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/剧白白.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/剧白白.jsd"
   },
   {
    "key": "dr_js_素白白",
@@ -726,11 +726,11 @@
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/唐人街影视[飞].js"
   },
   {
-   "key": "dr_js_TVB云播",
-   "name": "TVB云播[DRPY]",
+   "key": "dr_js_tva云播",
+   "name": "tva云播[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/TVB云播.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/tva云播.jsd"
   },
   {
    "key": "dr_js_星辰",
@@ -915,11 +915,11 @@
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/苹果爱微.js"
   },
   {
-   "key": "dr_js_骚火",
-   "name": "骚火[DRPY]",
+   "key": "dr_js_骚火电影",
+   "name": "骚火电影[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/骚火.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/骚火电影.js"
   },
   {
    "key": "dr_js_fositv",
@@ -1633,7 +1633,7 @@
    "name": "豆巴影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/豆巴影视.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/豆巴影视.jsd"
   },
   {
    "key": "dr_js_新片场",
@@ -1753,20 +1753,6 @@
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/8K影视.js"
-  },
-  {
-   "key": "dr_js_城市影视",
-   "name": "城市影视[DRPY]",
-   "type": 3,
-   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/城市影视.js"
-  },
-  {
-   "key": "dr_js_骚火电影",
-   "name": "骚火电影[DRPY]",
-   "type": 3,
-   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/骚火电影.js"
   },
   {
    "key": "dr_js_剧荒TV",

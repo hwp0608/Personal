@@ -639,7 +639,7 @@
    "name": "两个BT[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/txt/js/tg/两个BT.jsd"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/txt/js/tg/两个BT.js"
   },
   {
    "key": "dr_js_皮皮泡",
@@ -821,7 +821,7 @@
    "name": "映迷影院[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/映迷影院.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/映迷影院.jsd"
   },
   {
    "key": "dr_js_看看电影",

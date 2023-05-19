@@ -870,7 +870,7 @@
    "name": "豆芽影院[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/豆芽影院.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/豆芽影院.jsd"
   },
   {
    "key": "dr_js_趣享星视",

@@ -1,4 +1,4 @@
-﻿{
+{
  "wallpaper": "https://p0.meituan.net/dpplatform/6a4e7609e4568c37fdb2e6cb66adfac1151251.jpg",
  "spider": "https://agit.ai/outyshz/out/raw/branch/master/TVBox/JAR/xo.jar",
  "drives": [
@@ -821,7 +821,7 @@
    "name": "映迷影院[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/映迷影院.jsd"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/映迷影院.js"
   },
   {
    "key": "dr_js_看看电影",

@@ -1,4 +1,4 @@
-{
+﻿{
  "wallpaper": "https://p0.meituan.net/dpplatform/6a4e7609e4568c37fdb2e6cb66adfac1151251.jpg",
  "spider": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/custom_spider.jar",
  "drives": [
@@ -1765,6 +1765,48 @@
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/酷影[V2].js"
+  },
+  {
+   "key": "dr_js_多米[V2]",
+   "name": "多米[V2][DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/多米[V2].js"
+  },
+  {
+   "key": "dr_js_如意[V2]",
+   "name": "如意[V2][DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/如意[V2].js"
+  },
+  {
+   "key": "dr_js_爱迪[V2]",
+   "name": "爱迪[V2][DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/爱迪[V2].js"
+  },
+  {
+   "key": "dr_js_迷你库[V2]",
+   "name": "迷你库[V2][DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/迷你库[V2].js"
+  },
+  {
+   "key": "dr_js_飞云[V2]",
+   "name": "飞云[V2][DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/飞云[V2].js"
+  },
+  {
+   "key": "dr_js_鸭鸭[V2]",
+   "name": "鸭鸭[V2][DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/鸭鸭[V2].js"
   },
   {
    "key": "dr_js_剧荒TV",

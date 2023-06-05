@@ -1809,6 +1809,13 @@
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/鸭鸭[V2].js"
   },
   {
+   "key": "dr_js_热播之家",
+   "name": "热播之家[DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/热播之家.js"
+  },
+  {
    "key": "dr_js_剧荒TV",
    "name": "剧荒TV[DRPY]",
    "type": 3,

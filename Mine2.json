@@ -481,13 +481,6 @@
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/干饭影视.js"
   },
   {
-   "key": "drpy_js_喵喵",
-   "name": "喵喵[DRPY]",
-   "type": 3,
-   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/喵喵.jsd"
-  },
-  {
    "key": "drpy_js_番茄影视",
    "name": "番茄影视[DRPY]",
    "type": 3,
@@ -1445,13 +1438,6 @@
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/NFM影视.js"
-  },
-  {
-   "key": "dr_js_伊雪湾",
-   "name": "伊雪湾[DRPY]",
-   "type": 3,
-   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/伊雪湾.jsd"
   },
   {
    "key": "dr_js_免费看",

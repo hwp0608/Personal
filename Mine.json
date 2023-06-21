@@ -797,11 +797,11 @@
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/Fun4K.js"
   },
   {
-   "key": "dr_js_188看",
-   "name": "188看[DRPY]",
+   "key": "dr_js_188影视",
+   "name": "188影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/188看.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/188影视.js"
   },
   {
    "key": "dr_js_子子影视",
@@ -1028,11 +1028,11 @@
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/石榴影院.js"
   },
   {
-   "key": "dr_js_539影院",
-   "name": "539影院[DRPY]",
+   "key": "dr_js_539影视",
+   "name": "539影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/539影院.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/539影视.js"
   },
   {
    "key": "dr_js_热播库",
@@ -1595,11 +1595,11 @@
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/秋霞影视.js"
   },
   {
-   "key": "dr_js_555影视[V2]",
-   "name": "555影视[V2][DRPY]",
+   "key": "dr_js_555电影",
+   "name": "555电影[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/555影视[V2].js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/555电影.js"
   },
   {
    "key": "dr_js_天空影视[V2]",
@@ -1840,11 +1840,11 @@
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/扛把子影院.js"
   },
   {
-   "key": "dr_js_速看100[V2]",
-   "name": "速看100[V2][DRPY]",
+   "key": "dr_js_啊班[V2]",
+   "name": "啊班[V2][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/速看100[V2].js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/啊班[V2].js"
   },
   {
    "key": "dr_js_布雷蓝光[V2]",

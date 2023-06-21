@@ -1856,6 +1856,13 @@
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/UM电影[V2].js"
   },
   {
+   "key": "dr_js_北川",
+   "name": "北川[DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/北川.js"
+  },
+  {
    "key": "dr_js_剧荒TV",
    "name": "剧荒TV[DRPY]",
    "type": 3,

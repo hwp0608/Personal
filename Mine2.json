@@ -366,6 +366,69 @@
    ]
   },
   {
+   "key": "CMS_非凡资源",
+   "name": "🥗┃非凡┃资源",
+   "type": 1,
+   "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+   "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "categories": [
+     "动作片",
+     "喜剧片",
+     "科幻片",
+     "恐怖片",
+     "爱情片",
+     "剧情片",
+     "战争片",
+     "记录片",
+     "国产剧",
+     "欧美剧",
+     "香港剧",
+     "韩国剧",
+     "台湾剧",
+     "日本剧",
+     "海外剧",
+     "泰国剧",
+     "国产动漫",
+     "日韩动漫",
+     "欧美动漫",
+     "港台动漫",
+     "海外动漫",
+     "大陆综艺",
+     "港台综艺",
+     "日韩综艺",
+     "欧美综艺"
+    ]
+  },
+  {
+   "key": "CMS_量子资源",
+   "name": "🥑┃量子┃资源",
+   "type": 1,
+   "api": "http://cj.lziapi.com/api.php/provide/vod/",
+   "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "categories": [
+     "国产剧",
+     "国产动漫",
+     "泰国剧",
+     "台湾剧",
+     "香港剧",
+     "欧美剧",
+     "韩国剧",
+     "日本剧",
+     "动漫",
+     "体育",
+     "剧情片",
+     "动作片",
+     "爱情片",
+     "喜剧片"
+    ]
+  },
+  {
    "key":"Live2Cms",
    "name":"直播转点播V2",
    "type":3,
@@ -1590,11 +1653,11 @@
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/秋霞影视.js"
   },
   {
-   "key": "dr_js_555电影",
-   "name": "555电影[DRPY]",
+   "key": "dr_js_555电影[V2]",
+   "name": "555电影[V2][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/555电影.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/555电影[V2].js"
   },
   {
    "key": "dr_js_天空影视[V2]",
@@ -1618,11 +1681,11 @@
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/HG影院[V2].js"
   },
   {
-   "key": "dr_js_被窝电影",
-   "name": "被窝电影[DRPY]",
+   "key": "dr_js_私人影院",
+   "name": "私人影院[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/被窝电影.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/私人影院.js"
   },
   {
    "key": "dr_js_豆巴影视",
@@ -1868,6 +1931,20 @@
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/花猪影视[V2].js"
+  },
+  {
+   "key": "dr_js_酷酷[V2]",
+   "name": "酷酷[V2][DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/酷酷[V2].js"
+  },
+  {
+   "key": "dr_js_蘑菇",
+   "name": "蘑菇[DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/蘑菇.js"
   },
   {
    "key": "dr_js_剧荒TV",

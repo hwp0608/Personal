@@ -212,6 +212,13 @@
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/LIBVIO.js"
   },
   {
+   "key": "drpy_js_LIBVIO2",
+   "name": "LIBVIO2[DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/LIBVIO2.js"
+  },
+  {
    "key": "drpy_js_voflix",
    "name": "voflix[DRPY]",
    "type": 3,

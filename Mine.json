@@ -60,7 +60,7 @@
    "name": "555影视[飞][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/555影视[飞].jsd"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/555影视[飞].js"
   },
   {
    "key": "drpy_js_哔嘀影视",
@@ -277,7 +277,7 @@
    "name":"欧乐影院[飞][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/欧乐影院[飞].js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/欧乐影院[飞].jsd"
   },
   {
    "key": "dr_js_独播库",
@@ -549,7 +549,7 @@
    "name": "大米星球[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/大米星球.jsd"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/大米星球.js"
   },
   {
    "key": "drpy_js_追剧喵",
@@ -1053,7 +1053,7 @@
    "name": "海外看影院[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/海外看影院.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/海外看影院.jsd"
   },
   {
    "key": "dr_js_溪谷影视",
@@ -1669,7 +1669,7 @@
    "name": "555电影[V2][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/555电影[V2].jsd"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/555电影[V2].js"
   },
   {
    "key": "dr_js_天空影视[V2]",

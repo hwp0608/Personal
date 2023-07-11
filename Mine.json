@@ -1032,7 +1032,7 @@
    "name": "南柯电影网[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/南柯电影网.jsd"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/南柯电影网.js"
   },
   {
    "key": "dr_js_城市电影",
@@ -2015,6 +2015,13 @@
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/看看剧[V2].js"
   },
   {
+   "key": "dr_js_干饭影视",
+   "name": "干饭影视[DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/干饭影视.js"
+  },
+  {
    "key": "dr_js_剧荒TV",
    "name": "剧荒TV[DRPY]",
    "type": 3,
@@ -2026,7 +2033,7 @@
    "name": "玄天[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/玄天.jsd"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/玄天.js"
   },
   {
    "key": "dr_js_爱看",

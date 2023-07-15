@@ -62,7 +62,7 @@
    "name": "哔嘀影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/哔嘀影视.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/哔嘀影视.jsd"
   },
   {
    "key": "drpy_js_剧白白",

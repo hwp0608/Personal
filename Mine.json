@@ -507,7 +507,7 @@
    "name": "小猫咪[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/小猫咪.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/小猫咪.jsd"
   },
   {
    "key": "drpy_js_小强迷",
@@ -787,7 +787,7 @@
    "name": "KUBO影视[飞][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/KUBO影视[飞].js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/KUBO影视[飞].jsd"
   },
   {
    "key": "dr_js_8号影院",
@@ -1494,7 +1494,7 @@
    "name": "利丽娅电影[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/利丽娅电影.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/利丽娅电影.jsd"
   },
   {
    "key": "dr_js_美视网",
@@ -1627,7 +1627,7 @@
    "name": "冷曦影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/冷曦影视.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/冷曦影视.jsd"
   },
   {
    "key": "dr_js_慢大浪",
@@ -1690,7 +1690,7 @@
    "name": "HG影院[V2][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/HG影院[V2].js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/HG影院[V2].jsd"
   },
   {
    "key": "dr_js_私人影院",
@@ -2020,6 +2020,20 @@
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/干饭影视.js"
+  },
+  {
+   "key": "dr_js_往往影视",
+   "name": "往往影视[DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/往往影视.js"
+  },
+  {
+   "key": "dr_js_蛋蛋剧",
+   "name": "蛋蛋剧[DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/蛋蛋剧.js"
   },
   {
    "key": "dr_js_剧荒TV",

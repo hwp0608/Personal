@@ -2036,6 +2036,20 @@
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/蛋蛋剧.js"
   },
   {
+   "key": "dr_js_ikanbot2",
+   "name": "ikanbot2[DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/ikanbot2.js"
+  },
+  {
+   "key": "dr_js_ikanbot3",
+   "name": "ikanbot2[DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/ikanbot3.js"
+  },
+  {
    "key": "dr_js_剧荒TV",
    "name": "剧荒TV[DRPY]",
    "type": 3,

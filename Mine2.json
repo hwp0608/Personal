@@ -230,7 +230,7 @@
    "name": "鸭奈飞[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/鸭奈飞.jsd"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/鸭奈飞.js"
   },
   {
    "key": "drpy_js_HDmoli",
@@ -782,7 +782,7 @@
    "name": "KUBO影视[飞][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/KUBO影视[飞].jsd"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/KUBO影视[飞].js"
   },
   {
    "key": "dr_js_8号影院",
@@ -1678,7 +1678,7 @@
    "name": "萌蛋蛋[V2][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/萌蛋蛋[V2].jsd"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/萌蛋蛋[V2].js"
   },
   {
    "key": "dr_js_HG影院[V2]",
@@ -1762,7 +1762,7 @@
    "name": "UM电影[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/UM电影.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/UM电影.jsd"
   },
   {
    "key": "dr_js_二次萌影视",
@@ -2050,6 +2050,13 @@
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/磁力熊[磁].js"
+  },
+  {
+   "key": "dr_js_鸭奈飞[V2]",
+   "name": "鸭奈飞[V2][DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/鸭奈飞[V2].js"
   },
   {
    "key": "dr_js_剧荒TV",

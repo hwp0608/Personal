@@ -230,7 +230,7 @@
    "name": "鸭奈飞[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/鸭奈飞.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/鸭奈飞.jsd"
   },
   {
    "key": "drpy_js_HDmoli",
@@ -2056,7 +2056,7 @@
    "name": "鸭奈飞[V2][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/鸭奈飞[V2].js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/鸭奈飞[V2].jsd"
   },
   {
    "key": "dr_js_剧荒TV",

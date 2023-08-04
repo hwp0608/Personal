@@ -1032,7 +1032,7 @@
    "name": "南柯电影网[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/南柯电影网.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/南柯电影网.jsd"
   },
   {
    "key": "dr_js_城市电影",
@@ -1382,7 +1382,7 @@
    "name": "我爱跟剧[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/我爱跟剧.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/我爱跟剧.jsd"
   },
   {
    "key": "dr_js_孜然影视",
@@ -1991,7 +1991,7 @@
    "name": "F7好看剧[V2][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/F7好看剧[V2].js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/F7好看剧[V2].jsd"
   },
   {
    "key": "dr_js_Icio影视",
@@ -2069,6 +2069,13 @@
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/6V新版[磁].js"
+  },
+  {
+   "key": "dr_js_南瓜影视",
+   "name": "南瓜影视[DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/南瓜影视.js"
   },
   {
    "key": "dr_js_剧荒TV",

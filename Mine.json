@@ -1382,7 +1382,7 @@
    "name": "我爱跟剧[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/我爱跟剧.jsd"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/我爱跟剧.js"
   },
   {
    "key": "dr_js_孜然影视",

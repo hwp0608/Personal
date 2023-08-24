@@ -2078,6 +2078,13 @@
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/南瓜影视.js"
   },
   {
+   "key": "dr_js_爱看机器人",
+   "name": "爱看机器人[DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/爱看机器人.js"
+  },
+  {
    "key": "dr_js_剧荒TV",
    "name": "剧荒TV[DRPY]",
    "type": 3,

@@ -1,4 +1,4 @@
-﻿{
+{
  "wallpaper": "https://p0.meituan.net/dpplatform/6a4e7609e4568c37fdb2e6cb66adfac1151251.jpg",
  "spider": "https://agit.ai/outyshz/out/raw/branch/master/TVBox/JAR/xo.jar",
  "drives": [
@@ -97,14 +97,14 @@
    "name": "麦豆[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/麦豆.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/麦豆.jsd"
   },
   {
    "key": "dr_js_麦豆com",
    "name": "麦豆com[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/麦豆com.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/麦豆com.jsd"
   },
   {
    "key": "drpy_js_厂长资源",
@@ -251,7 +251,7 @@
    "name": "Auete[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/Auete.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/Auete.jsd"
   },
   {
    "key": "dr_js_吼吼",
@@ -355,7 +355,7 @@
      "server": "https://alist.shenzjd.com"
     },
     {
-     "name": "☃️姬路白雪",
+     "name": ☃️姬路白雪",
      "server": "https://pan.jlbx.xyz"
     },
     {
@@ -488,7 +488,7 @@
    "name": "万能影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/万能影视.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/万能影视.jsd"
   },
   {
    "key": "drpy_js_l0l",
@@ -530,7 +530,7 @@
    "name": "蓝光影院[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/蓝光影院.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/蓝光影院.jsd"
   },
   {
    "key": "drpy_js_蓝莓影视",
@@ -558,7 +558,7 @@
    "name": "干饭影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/干饭影视.jsd"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/干饭影视.js"
   },
   {
    "key": "drpy_js_番茄影视",
@@ -586,7 +586,7 @@
    "name": "影视工厂[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/影视工厂.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/影视工厂.jsd"
   },
   {
    "key": "drpy_js_看视界",
@@ -691,14 +691,14 @@
    "name": "饭团影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/饭团影视.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/饭团影视.jsd"
   },
   {
    "key": "dr_js_天空影视",
    "name": "天空影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/txt/js/tg/天空影视.jsd"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/天空影视.jsd"
   },
   {
    "key": "dr_js_剧迷",
@@ -747,7 +747,7 @@
    "name": "双十电影[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/双十电影.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/双十电影.jsd"
   },
   {
    "key": "dr_js_蛋蛋赞",
@@ -768,7 +768,7 @@
    "name": "尘落影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/尘落影视.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/尘落影视.jsd"
   },
   {
    "key": "dr_js_爱迪影视",
@@ -866,7 +866,7 @@
    "name": "188影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/188影视.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/188影视.jsd"
   },
   {
    "key": "dr_js_子子影视",
@@ -880,7 +880,7 @@
    "name": "小白菜电影[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/小白菜电影.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/小白菜电影.jsd"
   },
   {
    "key": "dr_js_新视觉影视",
@@ -901,7 +901,7 @@
    "name": "看看电影[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/看看电影.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/看看电影.jsd"
   },
   {
    "key": "dr_js_量子影视",
@@ -929,7 +929,7 @@
    "name": "我爱电影网[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/我爱电影网.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/我爱电影网.jsd"
   },
   {
    "key": "dr_js_爱酷影视",
@@ -1034,7 +1034,7 @@
    "name": "城市电影[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/城市电影.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/城市电影.jsd"
   },
   {
    "key": "dr_js_歪片星球",
@@ -1042,13 +1042,6 @@
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/歪片星球.js"
-  },
-  {
-   "key": "dr_js_海外看影院",
-   "name": "海外看影院[DRPY]",
-   "type": 3,
-   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/海外看影院.jsd"
   },
   {
    "key": "dr_js_溪谷影视",
@@ -1062,7 +1055,7 @@
    "name": "看一看影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/看一看影视.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/看一看影视.jsd"
   },
   {
    "key": "dr_js_神马影视",
@@ -1097,7 +1090,7 @@
    "name": "539影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/539影视.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/539影视.jsd"
   },
   {
    "key": "dr_js_热播库",
@@ -1132,7 +1125,7 @@
    "name": "首播影院[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/首播影院.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/首播影院.jsd"
   },
   {
    "key": "dr_js_天天视频",
@@ -1188,7 +1181,7 @@
    "name": "云镜影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/云镜影视.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/云镜影视.jsd"
   },
   {
    "key": "dr_js_大中影视",
@@ -1279,7 +1272,7 @@
    "name": "大豆[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/大豆.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/大豆.jsd"
   },
   {
    "key": "dr_js_午夜影视",
@@ -1321,14 +1314,14 @@
    "name": "八蛋影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/八蛋影视.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/八蛋影视.jsd"
   },
   {
    "key": "dr_js_七年影视",
    "name": "七年影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/七年影视.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/七年影视.jsd"
   },
   {
    "key": "dr_js_光棍影院",
@@ -1342,7 +1335,7 @@
    "name": "北川影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/北川影视.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/北川影视.jsd"
   },
   {
    "key": "dr_js_叭度影视",
@@ -1412,7 +1405,7 @@
    "name": "嘶哩嘶哩[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/嘶哩嘶哩.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/嘶哩嘶哩.jsd"
   },
   {
    "key": "dr_js_浮生半日",
@@ -1468,7 +1461,7 @@
    "name": "柒之社[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/柒之社.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/柒之社.jsd"
   },
   {
    "key": "dr_js_9U电影",
@@ -1545,7 +1538,7 @@
    "name": "看韩剧[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/看韩剧.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/看韩剧.jsd"
   },
   {
    "key": "dr_js_哔哩兔",
@@ -1587,7 +1580,7 @@
    "name": "六度TV[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/六度TV.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/六度TV.jsd"
   },
   {
    "key": "dr_js_去看吧",
@@ -1608,14 +1601,14 @@
    "name": "爱看影院[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/爱看影院.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/爱看影院.jsd"
   },
   {
    "key": "dr_js_稀饭影视",
    "name": "稀饭影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/稀饭影视.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/稀饭影视.jsd"
   },
   {
    "key": "dr_js_冷曦影视",
@@ -1678,7 +1671,7 @@
    "name": "萌蛋蛋[V2][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/萌蛋蛋[V2].js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/萌蛋蛋[V2].jsd"
   },
   {
    "key": "dr_js_HG影院[V2]",
@@ -1720,7 +1713,7 @@
    "name": "影视之家[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/影视之家.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/影视之家.jsd"
   },
   {
    "key": "dr_js_人人",
@@ -1734,7 +1727,7 @@
    "name": "星空影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/星空影视.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/星空影视.jsd"
   },
   {
    "key": "dr_js_网飞.TV",
@@ -1804,7 +1797,7 @@
    "name": "345看片[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/345看片.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/345看片.jsd"
   },
   {
    "key": "dr_js_69美剧[V2]",
@@ -1902,7 +1895,7 @@
    "name": "扛把子影院[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/扛把子影院.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/扛把子影院.jsd"
   },
   {
    "key": "dr_js_速看100[V2]",
@@ -1937,7 +1930,7 @@
    "name": "花猪影视[V2][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/花猪影视[V2].js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/花猪影视[V2].jsd"
   },
   {
    "key": "dr_js_酷酷[V2]",
@@ -1958,7 +1951,7 @@
    "name": "剧迷su[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/剧迷su.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/剧迷su.jsd"
   },
   {
    "key": "dr_js_天空影视[V2]",
@@ -1986,14 +1979,14 @@
    "name": "F7好看剧[V2][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/F7好看剧[V2].js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/F7好看剧[V2].jsd"
   },
   {
    "key": "dr_js_Icio影视",
    "name": "Icio影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/Icio影视.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/Icio影视.jsd"
   },
   {
    "key": "dr_js_影探[V2]",
@@ -2007,7 +2000,7 @@
    "name": "看看剧[V2][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/看看剧[V2].js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/看看剧[V2].jsd"
   },
   {
    "key": "dr_js_干饭影视",
@@ -2021,7 +2014,7 @@
    "name": "往往影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/往往影视.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/往往影视.jsd"
   },
   {
    "key": "dr_js_蛋蛋剧",
@@ -2078,6 +2071,20 @@
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/爱看机器人.js"
+  },
+  {
+   "key": "dr_js_华乐影院.js",
+   "name": "华乐影院[DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/华乐影院.js"
+  },
+  {
+   "key": "dr_js_阿布影院",
+   "name": "阿布影院[DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/阿布影院.js"
   },
   {
    "key": "dr_js_剧荒TV",

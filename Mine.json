@@ -2087,6 +2087,34 @@
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/阿布影院.js"
   },
   {
+   "key": "dr_js_4K视界[V2]",
+   "name": "4K视界[V2][DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/4K视界[V2].js"
+  },
+  {
+   "key": "dr_js_EMO蓝光[V2]",
+   "name": "EMO蓝光[V2][DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/EMO蓝光[V2].js"
+  },
+  {
+   "key": "dr_js_COKEMV[V2]",
+   "name": "COKEMV[V2][DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/COKEMV[V2].js"
+  },
+  {
+   "key": "dr_js_热剧猫[V2]",
+   "name": "热剧猫[V2][DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/热剧猫[V2].js"
+  },
+  {
    "key": "dr_js_剧荒TV",
    "name": "剧荒TV[DRPY]",
    "type": 3,

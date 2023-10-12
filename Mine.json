@@ -2115,6 +2115,27 @@
    "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/热剧猫[V2].js"
   },
   {
+   "key": "dr_js_吼吼[V2]",
+   "name": "吼吼[V2][DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/吼吼[V2].js"
+  },
+  {
+   "key": "dr_js_曲奇影视[V2]",
+   "name": "曲奇影视[V2][DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/曲奇影视[V2].js"
+  },
+  {
+   "key": "dr_js_短剧网",
+   "name": "短剧网[DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/短剧网.js"
+  },
+  {
    "key": "dr_js_剧荒TV",
    "name": "剧荒TV[DRPY]",
    "type": 3,

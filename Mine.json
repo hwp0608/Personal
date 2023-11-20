@@ -1391,7 +1391,7 @@
    "name": "创艺影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/创艺影视.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/创艺影视.jsd"
   },
   {
    "key": "dr_js_咕噜咕噜",
@@ -1706,7 +1706,7 @@
    "name": "创艺影视[V2][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/创艺影视[V2].js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/创艺影视[V2].jsd"
   },
   {
    "key": "dr_js_影视之家",
@@ -1860,7 +1860,7 @@
    "name": "鸭鸭[V2][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/鸭鸭[V2].js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/鸭鸭[V2].jsd"
   },
   {
    "key": "dr_js_热播之家",
@@ -1874,7 +1874,7 @@
    "name": "咕噜[V2][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/咕噜[V2].js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/咕噜[V2].jsd"
   },
   {
    "key": "dr_js_奈飞中文",
@@ -1902,7 +1902,7 @@
    "name": "速看100[V2][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/速看100[V2].js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/速看100[V2].jsd"
   },
   {
    "key": "dr_js_布雷蓝光[V2]",
@@ -1944,7 +1944,7 @@
    "name": "蘑菇[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/蘑菇.js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/蘑菇.jsd"
   },
   {
    "key": "dr_js_剧迷su",
@@ -2140,7 +2140,7 @@
    "name": "佳靓[V2][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/佳靓[V2].js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/佳靓[V2].jsd"
   },
   {
    "key": "dr_js_北极狐[V2]",
@@ -2182,7 +2182,7 @@
    "name": "电影先生[V2][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/电影先生[V2].js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/电影先生[V2].jsd"
   },
   {
    "key": "dr_js_美益达[V2]",
@@ -2224,7 +2224,7 @@
    "name": "刺桐[V2][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/刺桐[V2].js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/刺桐[V2].jsd"
   },
   {
    "key": "dr_js_剧荒TV",

@@ -1874,7 +1874,7 @@
    "name": "咕噜[V2][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/咕噜[V2].jsd"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/咕噜[V2].js"
   },
   {
    "key": "dr_js_奈飞中文",
@@ -2231,7 +2231,21 @@
    "name": "毛子[V2][DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/毛子[V2].js"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/毛子[V2].jsd"
+  },
+  {
+   "key": "dr_js_532影院[V2]",
+   "name": "532影院[V2][DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/532影院[V2].js"
+  },
+  {
+   "key": "dr_js_宝片[V2]",
+   "name": "宝片[V2][DRPY]",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/宝片[V2].js"
   },
   {
    "key": "dr_js_剧荒TV",

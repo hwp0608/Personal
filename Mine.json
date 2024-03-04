@@ -1461,7 +1461,7 @@
    "name": "996影视[DRPY]",
    "type": 3,
    "api": "https://raw.gitmirror.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/996影视.jsd"
+   "ext": "https://raw.gitmirror.com/hjdhnx/dr_py/main/js/996影视.js"
   },
   {
    "key": "dr_js_喵次元",
